@@ -3,12 +3,10 @@ set -euo pipefail
 
 git_loc \
     "Kale Kundert" \
-    ~/hacking/tools/*/ \
+    ~/hacking/projects/*/ \
     ~/hacking/forks/*/ \
-    ~/hacking/libraries/*/ \
-    ~/research/software/tools/*/ \
+    ~/research/software/projects/*/ \
     ~/research/software/forks/*/ \
-    ~/research/software/libraries/*/ \
     ~/research/software/rosetta/master \
     ~/kxgames/minigames/*/ \
     ~/kxgames/forks/*/ \
@@ -16,5 +14,11 @@ git_loc \
     ~/kxgames/projects/*/ \
     ~/kxgames/projects/prototypes/*/ \
     ~/kxgames/tools/*/ \
+    ~/kxgames/demos/*/ \
     --exclude plassszzzmid \
+    --exclude sakura \
     --exclude __pycache__ \
+
+echo "Python experience: $(( $(\date +"%Y") - 2006 ))"
+echo "C/C++ experience:  $(( $(\date +"%Y") - 2005 ))"
+
