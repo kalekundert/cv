@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-git_loc \
+git loc \
     "Kale Kundert" \
     ~/hacking/projects/*/ \
     ~/hacking/forks/*/ \

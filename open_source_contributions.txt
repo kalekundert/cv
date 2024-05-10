@@ -1,0 +1,29 @@
+I got this list by copying everything from my GitHub "Pull Requests" page, then 
+doing a bunch of text manipulation in vim to isolate the project names.  
+Up-to-date as of 2024/05/08.
+
+berry
+diff_cover
+eliot
+escnn
+funcy
+gemmi
+lie_learn
+more-itertools
+overlap
+polars
+ProDy
+psutil
+py3nj
+pygments
+pytest
+pytest-subtests
+python-semantic-release
+pytorch
+scipy
+sphinx
+tbparse
+timerit
+vim-toml
+weblogo
+xonsh
